@@ -1,1 +1,10 @@
 # Magneto
+### security
+### kafka
+### redis
+### mysql
+### java
+### tcp/ip
+### netty
+### spring
+### os
